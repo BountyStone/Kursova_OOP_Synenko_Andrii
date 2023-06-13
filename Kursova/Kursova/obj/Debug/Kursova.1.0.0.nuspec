@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Kursova</id>
+    <version>1.0.0</version>
+    <authors>Kursova</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\boyni\OneDrive\Desktop\sfml\SFML-2.5.1\Kursova\Kursova\bin\Debug\net6.0-windows\Kursova.runtimeconfig.json" target="lib\net6.0-windows7.0\Kursova.runtimeconfig.json" />
+    <file src="C:\Users\boyni\OneDrive\Desktop\sfml\SFML-2.5.1\Kursova\Kursova\bin\Debug\net6.0-windows\Kursova.dll" target="lib\net6.0-windows7.0\Kursova.dll" />
+  </files>
+</package>
